@@ -1,7 +1,7 @@
 - 👋 *Hi, I’m Sandee*
-- 👀 *I’m a Frontend Web Developer(Html and Css) and a UI Designer*
+- 👀 *I’m a Frontend Web Developer(HTML, CSS and JavaScript)*
 - 💞️ *I’m looking to collaborate on any Web Development Projects and also available for internships and junior dev roles.*
-- 👨‍💻 *I'm passionate about coding and I love AR & VR❤️*
+- 👨‍💻 *I'm passionate about coding. I love Augumented Reality❤️*
 - 📫 *How to reach me: oyarekhuas@gmail.com*
 
 
