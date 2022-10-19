@@ -1,11 +1,21 @@
-- 👋 *Hi, I’m Sandee*
-- 👀 *I’m a Frontend Web Developer(HTML, CSS and JavaScript)*
-- 💞️ *I’m looking to collaborate on any Web Development Projects and also available for internships and junior dev roles.*
-- 👨‍💻 *I'm passionate about coding. I love Augumented Reality❤️*
-- 📫 *How to reach me: oyarekhuas@gmail.com*
+
+# Hi, I'm Sandee! 👋
 
 
-<!---
-Sandee004/Sandee004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I am currently a frontend Web Developer. I make use of technologies like Html, Css/Sass and JavaScript for development. I am currently learning Python and Django to be a full stack developer(Django stack to be precise)
+
+
+## 🛠 Skills
+Html, Css/Sass , JavaScript, Python, Django
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Sandee004)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyarekhua-sandra)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_SandeeTee_)
+
+
+# Project
+Zuri Assignment Repo: Contains all tasks done from Week 3 to Week 5 in Frontend and Python.
+https://github.com/Sandee004/Assignments/
