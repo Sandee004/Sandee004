@@ -16,6 +16,6 @@ Html, Css/Sass , JavaScript, Python, Django
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_SandeeTee_)
 
 
-# Project
-Zuri Assignment Repo: Contains all tasks done from Week 3 to Week 5 in Frontend and Python.
-https://github.com/Sandee004/Assignments/
+# Others
+When I'm not coding I enjoy playing games, listening to music and reading novels
+I'm open to internship roles and/or open source contributions....
