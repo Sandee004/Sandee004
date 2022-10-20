@@ -17,5 +17,6 @@ Html, Css/Sass , JavaScript, Python, Django
 
 
 # Appendix
-When I'm not coding I enjoy playing games, listening to music and reading novels
+When I'm not coding I enjoy playing games, listening to music and reading novels.
+
 I'm open to internship roles and/or open source contributions....
