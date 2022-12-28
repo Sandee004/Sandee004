@@ -15,7 +15,7 @@ Html, Css/Sass , JavaScript, Python, Django
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyarekhua-sandra)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_SandeeTee_)
 <a href='https://holopin.io/@sandee'>
-    <img src='https://holopin.onrender.com/vinitshahdeo'/>
+    <img src='https://holopin.onrender.com/sandee'/>
 </a>
 
 
