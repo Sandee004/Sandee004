@@ -19,6 +19,12 @@ Html, Css/Sass , JavaScript, Python, Django
 </a>
 
 
+## Stats
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandee004" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandee004"/>
+</p>
+
 # Appendix
 When I'm not coding I enjoy playing games, listening to music and reading novels.
 I'm open to internship roles and/or open source contributions....
