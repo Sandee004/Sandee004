@@ -1,13 +1,13 @@
 
-# Hi, I'm Sandee!
+## Hi, I'm Sandee!
 <p>I am currently a frontend Web Developer. I make use of technologies like Html, Css/Sass and JavaScript for development. I am currently learning Python and Django to be a full stack developer(Django stack to be precise)</p>
 
 
-## 🛠 Skills
+### 🛠 Skills
 Html, Css/Sass , JavaScript, Python, Django
 
 
-## 🔗 Links
+### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://portfolio-v4-psi.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyarekhua-sandra)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_SandeeTee_)
@@ -16,12 +16,12 @@ Html, Css/Sass , JavaScript, Python, Django
 </a>
 
 
-## Stats
+### Stats
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandee004" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandee004"/>
 </p>
 
-# Appendix
+### Appendix
 When I'm not coding I enjoy playing games, listening to music and reading novels.
 I'm open to internship roles and/or open source contributions....
