@@ -1,5 +1,5 @@
 
-## Hi, I'm Sandee!
+## Hi, I'm Sandee
 <p>I am currently a frontend Web Developer. I make use of technologies like Html, Css/Sass and JavaScript for development. I am currently learning Python and Django to be a full stack developer(Django stack to be precise)</p>
 
 
@@ -17,14 +17,12 @@ Html, Css/Sass , JavaScript, Python, Django
 
 
 ## Stats
-[](https://komarev.com/ghpvc/?username=Sandee004&color=blue) <br />
-<p float="left">
+<p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandee004" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandee004&theme=dark"/>
 </p>
 
-##Streak Stats
-
+**Streak**
 <a href="https://github.com/Sandee004">
 <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandee004&theme=dark">
 </a>
