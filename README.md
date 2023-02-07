@@ -22,6 +22,12 @@ Html, Css/Sass , JavaScript, Python, Django
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandee004"/>
 </p>
 
+##Streak Stats
+
+<a href="https://github.com/Sandee004">
+<img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandee004">
+</a>
+
 ## Appendix
 When I'm not coding I enjoy playing games, listening to music and reading novels.
 I'm open to internship roles and/or open source contributions....
