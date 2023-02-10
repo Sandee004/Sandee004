@@ -19,12 +19,12 @@ Html, Css/Sass , JavaScript, Python, Django
 ## Stats
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandee004" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandee004&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandee004"/>
 </p>
 
 **Streak**
 <a href="https://github.com/Sandee004">
-<img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandee004&theme=dark">
+<img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandee004">
 </a>
 
 ## Appendix
