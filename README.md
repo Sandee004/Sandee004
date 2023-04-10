@@ -10,7 +10,7 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3SASS"><img alt="SASS" src="https://img.shields.io/badge/sass-purple.svg?logo=sass&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3SASS"><img alt="SASS" src="https://img.shields.io/badge/SASS-purple.svg?logo=SASS&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"></a>
 </p>
