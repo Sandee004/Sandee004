@@ -16,18 +16,6 @@
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sandee-portfolio-01.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oyarekhua-sandra)
@@ -52,7 +40,7 @@ When I'm not coding I enjoy playing games, listening to music and reading novels
 I'm open to internship roles and/or open source contributions....
 <p align=center>
 
-<img src ="https://komarev.com/ghpvc/?username=Sandee004&label=Visitors&color=green&style=plastic"/>
+<!--img src ="https://komarev.com/ghpvc/?username=Sandee004&label=Visitors&color=green&style=plastic"/-->
 
 </p>
 
