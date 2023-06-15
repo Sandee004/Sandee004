@@ -1,6 +1,6 @@
 
 ## Hi, I'm Sandee
-<p>I am currently a frontend Web Developer. I make use of technologies like Html, Css/Sass and JavaScript for development. I am currently learning Python and Django to be a full stack developer(Django stack to be precise)</p>
+<p>I am currently a frontend Web Developer. I make use of technologies like Html, Css/Sass and JavaScript for development. I am currently learning Python and Flask to be a full stack developer</p>
 
 
 ## 🛠 Skills
