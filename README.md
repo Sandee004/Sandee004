@@ -1,4 +1,4 @@
-
+<!--
 ## Hi, I'm Sandee
 <p>I am currently a frontend Web Developer. I make use of technologies like Html, Css/Sass and JavaScript for development. I am currently learning Python and Flask to be a full stack developer</p>
 
@@ -42,8 +42,18 @@ I'm open to internship roles and/or open source contributions....
 
 <!--img src ="https://komarev.com/ghpvc/?username=Sandee004&label=Visitors&color=green&style=plastic"/-->
 
-</p>
+</p-->
 
+## Hello👋
+<p style="font-size: 20px">You found your way here because you wish to know me🌝</p>
+
+<p>Well, my name is Sandra. I am a backend heavy fullstack developer with 3yrs experience in creating both aesthetically pleasing and highly efficient sites. Skilled at bridging the gap between performance and visual appeal.</p>
+
+<p>The tools I use for making magic are HTML, CSS(including Tailwind and SASS), JavaScript and Flask to give you the best you can get. You can go through my repositories to see some of the things I've cooked up🧙‍♂️</p>
+
+<p>When I'm not coding I'm either in the farm tending to animals and/or plants or cooking up silly and crazy ideas to bring to reality through code😊</p>
+
+<p>You can find me on X(formerly Twitter) @ <a href="" style="color: black">Sandee Tee</a></p>
   
 
   
