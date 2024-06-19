@@ -54,6 +54,7 @@ I'm open to internship roles and/or open source contributions....
 <p>When I'm not coding I'm either in the farm tending to animals and/or plants or cooking up silly and crazy ideas to bring to reality through code😊</p>
 
 <p>You can find me on X(formerly Twitter) @ <a href="" style="color: black">Sandee Tee</a></p>
-  
 
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandee004&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
