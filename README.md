@@ -2,9 +2,9 @@
 
 <p>
 
-I'm Sandra — but you can call me ***Sandee*** (that’s what I go by on most platforms). I'm a ***fullstack developer*** with 5+ years of experience building sleek, scalable, and high-performing digital experiences.
+I'm Sandra — but you can call me ***Sandee*** (everyone does). I'm a ***fullstack developer/software engineer*** with 5+ years of experience building sleek, scalable, and high-performing digital experiences.
 
-I thrive on ***exploration*** — when I’m bored, I don’t scroll, I build. I’ve dabbled in ***mobile app development***, dipped into the world of ***Web3***, and I’m always looking for the next tech rabbit hole to dive into.
+I thrive on ***exploration*** — when I’m bored, I build. I’ve dabbled in ***mobile app development***, dipped into the world of ***Web3***, while still featuring my core ***Web development*** and I’m always looking for the next tech rabbit hole to dive into.
 
 I work mainly with:
 ***React, React native, TypeScript, JavaScript, Flask, and Python*** — the perfect mix for whipping up anything from fast APIs to slick interfaces.
